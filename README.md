@@ -1,4 +1,4 @@
-# YouTubeSubtitlesConveterTxt
+# YouTubeSubtitlesConveter
 remove unnecessary lines from txt file
 
 
